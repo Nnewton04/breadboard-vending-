@@ -8,3 +8,6 @@ so it has three stages
 2nd one is remember ![IMG_1891 (1)](https://github.com/user-attachments/assets/102cf97a-40cd-42da-a530-9fccd3d472b7)
 and the last one is vend/reset![IMG_1892 (1)](https://github.com/user-attachments/assets/5a0182df-b8c5-43b4-b9bb-953830f45a48)
 and that's how a vending machine works
+
+
+it does that so it can remember what coin is put in and what is being vended 
